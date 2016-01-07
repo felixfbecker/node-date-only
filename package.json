@@ -1,0 +1,24 @@
+{
+  "name": "date-only",
+  "version": "1.0.0",
+  "description": "Date objects that JSON.stringify to YYYY-MM-DD",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "date",
+    "dateonly",
+    "only",
+    "iso",
+    "yyyymmdd",
+    "yyyy-mm-dd",
+    "json",
+    "stringify"
+  ],
+  "author": "Felix Becker <felix.b@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.11.0"
+  }
+}
