@@ -1,6 +1,6 @@
 {
   "name": "date-only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Date objects that JSON.stringify to YYYY-MM-DD",
   "main": "index.js",
   "repository": {
