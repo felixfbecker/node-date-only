@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Date objects that JSON.stringify to YYYY-MM-DD",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixfbecker/node-date-only"
+  },
   "engines": {
     "node": ">=4.0.0"
   },
