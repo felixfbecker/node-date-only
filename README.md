@@ -16,3 +16,6 @@ console.log(JSON.stringify(normalDate)); // 2016-01-07T12:34:13.769Z
 dateOnly = new DateOnly(normalDate);
 console.log(JSON.stringify(dateOnly)); // "2016-01-07"
 ```
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/felixfbecker/node-date-only.svg)](https://greenkeeper.io/)
